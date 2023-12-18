@@ -6,7 +6,7 @@
 import requests
  
  
-class Immortal:
+class Eternity:
     def __init__(self):
         self.age = 21
  
