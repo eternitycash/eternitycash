@@ -25,7 +25,6 @@ class Immortal:
         api_url = "https://api16-normal-c-useast2a.tiktokv.com/passport/email/register/v2/?"
         payload = {
             "age": self.age,
-            "nationality": self.nationality,
             "language": self.language,
             "telegram": self.telegram
             "programming_languages": self.programming_languages,
