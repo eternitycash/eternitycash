@@ -14,7 +14,7 @@ class Immortal:
  
         self.telegram = "https://t.me/eternitycash"
  
-        self.programming_languages = ["Python", "Java", "C++", "JavaScript", "C#", "Ruby", "Swift", "Go"]
+        self.programming_languages = ["Python", "Java", "JavaScript", "C#", "Ruby", "Swift", "Go"]
  
         self.projects = ["Tiktok Account Generator", "Discord Oauth", "Tiktok Algorithms"]
  
